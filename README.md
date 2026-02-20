@@ -37,14 +37,6 @@
   <img src="https://img.shields.io/badge/Reverse%20Engineering-FF4B4B?style=for-the-badge" alt="Reverse Engineering" />
 </p>
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chris1sFlaggin&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chris1sFlaggin&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</p>
-
 ---
 
 <div align="center">
