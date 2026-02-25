@@ -18,7 +18,6 @@
 
 * **Teaching & Mentoring:** Mentoring undergraduate students in basics of memory corruption and binary analysis at the University of Turin for Italy's ethical hacking program called [CyberChallengeIT](https://cyberchallenge.it/). Educating high school students in practical Computer Science and, most important, create some "Tech Curiosity".
 * **Open Source Tooling:** Developing tools like **[LCSAJdump](https://github.com/Chris1sFlaggin/LCSAJdump)**, a PyPI package for analyzing Linear Code Sequence and Jumps.
-* **Low-Level & Crypto Dev:** Building secure system architecture, such as **[WWYL](https://github.com/Chris1sFlaggin/wwyl)**, a C11 blockchain prototype focusing on memory safety, custom data structures, and ECDSA cryptography.
 * **Continuous Hacking:** Keeping my technical edge sharp on platforms like [pwn.college](https://pwn.college) or courses on [udemy](https://udemy.com), although my recent demanding university commitments have temporarily taken priority.
 
 ### Tech Stack & Tools
