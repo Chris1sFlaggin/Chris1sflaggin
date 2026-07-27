@@ -1,9 +1,9 @@
 <div align="center">
   <h1>Hi, I'm Chris1sFlaggin 👋</h1>
-  <h3>Computer Science High School Teacher & CyberChallenge.IT Junior Instructor @ UniTo</h3>
+  <h3>Ex Computer Science High School Teacher & CyberChallenge.IT Junior Instructor @ UniTo</h3>
 
   <p>
-    I am a 21 y.o. cybersecurity enthusiast, open-source developer, and educator with a strong foundation in binary exploitation and system programming.
+    I am a 22 y.o. cybersecurity enthusiast, open-source developer, and educator with a strong foundation in binary exploitation and system programming.
   </p>
 
   <a href="https://wakatime.com/@60eb27ee-c203-4f75-a0c4-7e15815a3a4d">
